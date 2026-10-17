@@ -1,0 +1,19 @@
+# Build files
+build/
+cmake-build-*/
+
+# Compiled files
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Local IDE files
+.vs/
+.vscode/
+
+# Backup source files
+main copy.cpp
+main_backup.cpp
+mainBackup-10-17.cpp
